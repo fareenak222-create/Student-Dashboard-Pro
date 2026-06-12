@@ -36,7 +36,7 @@ This project provides a simple student dashboard where users can view their week
 
 ## 🔗 Live Demo
 
-(https://www.linkedin.com/in/fareena-khan-1bb7a0410/)
+(https://fareenak222-create.github.io/Student-Dashboard-Pro/)
 
 
 ## 📸 Screenshot
